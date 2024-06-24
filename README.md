@@ -60,9 +60,9 @@ Siga o passo a passo abaixo para a instalação:
 ### Pré-Requisitos
 
 ```
-- JDK (Java Development Kit) versão 8 ou superior instalado.
+- JDK (Java Development Kit) versão 11 instalado.
 - MySQL
-- IDE Java, como Eclipse ou IntelliJ IDEA, para desenvolvimento (opcional).
+- IDE Java, como NetBeans ou IntelliJ IDEA, para desenvolvimento (opcional).
 ```
 
 
