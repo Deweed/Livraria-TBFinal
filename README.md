@@ -8,7 +8,7 @@
 https://github.com/MaxVieiraSantiago </h6>
     <br/>
     <br/>
-    <a href="https://github.com/Deweed/LotoFacil/issues">Report Bug</a>
+    <a href="https://github.com/Deweed/Livraria-TBFinal/issues">Report Bug</a>
     .
   </p>
 </p>
