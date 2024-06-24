@@ -31,7 +31,10 @@ Pensamos em um software que deve ser usado em livrarias fisicas,
 o sistema da apenas permissao ao funcionario, ele pode cadastrar clientes e produtos
 no Banco de dados e realizar vendas e consultar vendas por cada vendedor.
 ```
-![diagrama](Imagens/3.png)
+||
+|:----:|
+|<img src="Imagens/3.png" width="300" height="300">|
+
 
 
 ## Feito Com
