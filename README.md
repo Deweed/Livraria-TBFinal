@@ -26,9 +26,14 @@ https://github.com/MaxVieiraSantiago </h6>
 
 ```
 O projeto trata-se de um software para o controle de vendas de livros
-de uma livraria cujo o nome e EIRELE
-
+de uma livraria cujo o nome e EIRELE.
+Pensamos em um software que deve ser usado em livrarias fisicas, 
+o sistema da apenas permissao ao funcionario, ele pode cadastrar clientes e produtos
+no Banco de dados e realizar vendas e consultar vendas por cada vendedor.
 ```
+![diagrama](Imagens/3.png)
+
+
 ## Feito Com
 
 ```
