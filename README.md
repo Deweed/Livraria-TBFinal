@@ -38,6 +38,7 @@ no Banco de dados e realizar vendas e consultar vendas por cada vendedor.
 Java V11
 MySQL
 InteliJ
+NetBeans
 ```
 
 
