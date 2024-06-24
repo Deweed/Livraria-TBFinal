@@ -8,6 +8,9 @@
 https://github.com/MaxVieiraSantiago </h6>
     <br/>
     <br/>
+    <br/>
+    <br/>
+    <h6>Feito por Gabriel Eugenio e Ana Carolina Azevedo</h6>
     <a href="https://github.com/Deweed/Livraria-TBFinal/issues">Report Bug</a>
     .
   </p>
@@ -18,9 +21,13 @@ https://github.com/MaxVieiraSantiago </h6>
 
 ## Sobre o Projeto
 
-| | | |
-|:--------:|:--------:|:--------:|
-| ![LotoFacilGUI](Imagens/Livraria.gif)  | ![LotoFacilGUI](Imagens/1.png) | ![LotoFacilGUI](Imagens/2.png) |
+| |
+|:--------:|
+|<img src="Imagens/Livraria.gif" width="500" height="400">|
+
+| | | 
+|:--------:|:--------:|
+|![LotoFacilGUI](Imagens/1.png) | ![LotoFacilGUI](Imagens/2.png) |
 
 
 
