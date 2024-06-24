@@ -26,6 +26,15 @@ de uma livraria cujo o nome e EIRELE.
 Pensamos em um software que deve ser usado em livrarias fisicas, 
 o sistema da apenas permissao ao funcionario, ele pode cadastrar clientes e produtos
 no Banco de dados e realizar vendas e consultar vendas por cada vendedor.
+
+O Sistema conta com 7 telas, sendo elas:
+
+Consulta de Livros - Que mostra o catalogo de livros disponiveis no momento
+Cadastro de Livros - Cadastra livros para serem mostrados no catalogo
+Consulta de Clientes - Mostra clientes que foram adicionados no sistema
+Cadastro de clientes - Cadastra os clientes
+Tabela de vendas - Realiza a venda para um cliente especifico funcionando como um CARRINHO DE COMPRAS
+Consulta de Vendas - Mostra todas as vendas realziadas e os clientes que compraram
 ```
 ||
 |:----:|
