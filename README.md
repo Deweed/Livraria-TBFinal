@@ -164,6 +164,8 @@ Por favor, leia também o Código de Conduta antes de postar sua primeira ideia.
 |:--------:|:--------:|
 |![LotoFacilGUI](Imagens/1.png) | ![LotoFacilGUI](Imagens/2.png) |
 
+```Imagem da logo Editada por mim e criado por Vectorarte on Freepik```
+
 
 ## Autores
 ```
